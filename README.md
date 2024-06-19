@@ -1,6 +1,3 @@
-# File_Sorter
-Certainly, here's the updated README with a section on using PyInstaller to create an executable:
-
 **File Sorter**
 
 This Python script helps you organize your files by automatically sorting them into predefined categories based on their extensions.
