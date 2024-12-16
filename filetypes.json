@@ -1,0 +1,53 @@
+{
+    "images": [
+        ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".psd", ".pdn", ".raw", ".webp", ".svg", ".heif", ".heic", ".ico", ".apng", ".avif", ".xcf"
+    ],
+    "documents": [
+        ".doc", ".docx", ".txt", ".pdf", ".xls", ".xlsx", ".ppt", ".pptx", ".odt", ".ods", ".odp", ".rtf", ".md", ".epub", ".mobi", ".fb2", ".tex", ".pages", ".csv", ".tsv", ".log"
+    ],
+    "compressed": [
+        ".zip", ".rar", ".7z", ".tar", ".gz", ".bzip2", ".xz", ".lzma", ".z", ".cab", ".iso", ".tar.gz", ".tar.bz2", ".tar.xz"
+    ],
+    "code": [
+        ".c", ".cpp", ".h", ".cs", ".java", ".py", ".js", ".rb", ".php", ".sh", ".html", ".css", ".tsx", ".jsx", ".ts", ".json", ".lua", ".swift", ".go", ".r", ".pl", ".dart", ".tsv", ".yaml", ".ini", ".md", ".vhd", ".vhdl", ".asm", ".scala", ".groovy", ".kt", ".sol", ".graphql", ".proto"
+    ],
+    "web": [
+        ".html", ".css", ".js", ".webp", ".svg", ".json", ".xml", ".rss", ".xhtml", ".scss", ".sass", ".ts", ".vue", ".md", ".twig", ".mustache", ".jinja", ".yaml", ".php", ".asp", ".aspx", ".jsp", ".cfm"
+    ],
+    "executables": [
+        ".exe", ".msi", ".app", ".bat", ".cmd", ".sh", ".out", ".run", ".apk", ".dmg", ".pkg", ".deb", ".rpm", ".bin", ".jar", ".jarx", ".vbs"
+    ],
+    "data": [
+        ".csv", ".json", ".xml", ".yaml", ".ini", ".dat", ".sqlite", ".db", ".mdb", ".accdb", ".parquet", ".avro", ".proto", ".rdf", ".tsv", ".xlsx", ".yml"
+    ],
+    "fonts": [
+        ".ttf", ".otf", ".woff", ".woff2", ".eot", ".fon", ".fnt", ".bdf", ".pcf", ".otc", ".ttc", ".svg", ".ttf.gz"
+    ],
+    "media": [
+        ".mp4", ".mov", ".mkv", ".avi", ".wmv", ".mp3", ".wav", ".flac", ".ogg", ".webm", ".vlc", ".mid", ".aac", ".m4a", ".wma", ".aiff", ".alac", ".midi", ".3gp", ".f4v", ".rm", ".webm", ".m4v", ".ts", ".ogv", ".flv"
+    ],
+    "scripts": [
+        ".bat", ".bash", ".zsh", ".fish", ".ps1", ".vbs", ".pl", ".py", ".rb", ".js", ".ts", ".sh", ".command", ".awk", ".sed", ".lua", ".json"
+    ],
+    "shortcuts": [
+        ".lnk", ".desktop", ".url", ".webloc", ".appref-ms", ".url", ".pif"
+    ],
+    "text": [
+        ".txt", ".log", ".md", ".rtf", ".ini", ".json", ".xml", ".yaml", ".csv", ".tsv", ".nfo", ".srt", ".sub", ".vtt", ".diff"
+    ],
+    "unknown": [
+        ".xpi", ".dll", ".amc", ".bin", ".dat", ".dat.gz", ".part", ".crdownload", ".swp", ".bak", ".out", ".sublime-project", ".sublime-workspace"
+    ],
+    "models": [
+        ".obj", ".fbx", ".dae", ".stl", ".3ds", ".blend", ".ply", ".gltf", ".glb", ".usd", ".x3d", ".ase", ".ctm", ".vrml"
+    ],
+    "discs": [
+        ".iso", ".img", ".cue", ".bin", ".ccd", ".nrg", ".dmg", ".vhd", ".vmdk", ".iso.gz", ".iso.bz2", ".iso.xz"
+    ],
+    "spreadsheets": [
+        ".xls", ".xlsx", ".ods", ".csv", ".tsv", ".xml", ".json", ".xlsm", ".xltx", ".xltm", ".ots", ".sylk", ".dif", ".prn"
+    ],
+    "presentations": [
+        ".ppt", ".pptx", ".odp", ".ppsx", ".pps", ".key", ".potx", ".potm", ".otp", ".sxi"
+    ]
+}
