@@ -36,7 +36,7 @@
         ".txt", ".log", ".md", ".rtf", ".ini", ".json", ".xml", ".yaml", ".csv", ".tsv", ".nfo", ".srt", ".sub", ".vtt", ".diff"
     ],
     "unknown": [
-        ".xpi", ".dll", ".amc", ".bin", ".dat", ".dat.gz", ".part", ".crdownload", ".swp", ".bak", ".out", ".sublime-project", ".sublime-workspace"
+        ".xpi", ".dll", ".amc", ".bin", ".dat", ".dat.gz", ".part", ".crdownload", ".swp", ".bak", ".out", ".sublime-project", ".sublime-workspace", ".CT"
     ],
     "models": [
         ".obj", ".fbx", ".dae", ".stl", ".3ds", ".blend", ".ply", ".gltf", ".glb", ".usd", ".x3d", ".ase", ".ctm", ".vrml"
