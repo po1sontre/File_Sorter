@@ -27,7 +27,7 @@
         ".mp4", ".mov", ".mkv", ".avi", ".wmv", ".mp3", ".wav", ".flac", ".ogg", ".webm", ".vlc", ".mid", ".aac", ".m4a", ".wma", ".aiff", ".alac", ".midi", ".3gp", ".f4v", ".rm", ".webm", ".m4v", ".ts", ".ogv", ".flv"
     ],
     "scripts": [
-        ".bat", ".bash", ".zsh", ".fish", ".ps1", ".vbs", ".pl", ".py", ".rb", ".js", ".ts", ".sh", ".command", ".awk", ".sed", ".lua", ".json"
+        ".bat", ".bash", ".zsh", ".fish", ".ps1", ".vbs", ".pl", ".py", ".rb", ".js", ".ts", ".sh", ".command", ".awk", ".sed", ".lua", ".json", ".ct"
     ],
     "shortcuts": [
         ".lnk", ".desktop", ".url", ".webloc", ".appref-ms", ".url", ".pif"
@@ -36,7 +36,7 @@
         ".txt", ".log", ".md", ".rtf", ".ini", ".json", ".xml", ".yaml", ".csv", ".tsv", ".nfo", ".srt", ".sub", ".vtt", ".diff"
     ],
     "unknown": [
-        ".xpi", ".dll", ".amc", ".bin", ".dat", ".dat.gz", ".part", ".crdownload", ".swp", ".bak", ".out", ".sublime-project", ".sublime-workspace", ".CT"
+        ".xpi", ".dll", ".amc", ".bin", ".dat", ".dat.gz", ".part", ".crdownload", ".swp", ".bak", ".out", ".sublime-project", ".sublime-workspace"
     ],
     "models": [
         ".obj", ".fbx", ".dae", ".stl", ".3ds", ".blend", ".ply", ".gltf", ".glb", ".usd", ".x3d", ".ase", ".ctm", ".vrml"
