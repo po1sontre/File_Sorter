@@ -59,7 +59,7 @@ This Python script helps you organize your files by categorizing them based on t
     "audio": [".mp3", ".wav"],
     "scripts": [".py", ".sh", ".bat"]
 }
-
+ ```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
